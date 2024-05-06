@@ -21,6 +21,14 @@ header {
     align-items: center;
 }
 
+.container2 {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .logo img {
     max-width: 100px;
 }
