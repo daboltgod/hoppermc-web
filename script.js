@@ -1,4 +1,5 @@
 // script.js
+// made by itzxyloyt
 
 // Load Cloudflare Beacon script
 const beaconScript = document.createElement('script');
@@ -20,6 +21,13 @@ const gtagScript = document.createElement('script');
 gtagScript.src = "https://www.googletagmanager.com/gtag/js?id=G-77ZE0DPN37";
 gtagScript.async = true;
 document.head.appendChild(gtagScript);
+
+// Load Google AdSense script
+const adsenseScript = document.createElement('script');
+adsenseScript.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9451736546409463";
+adsenseScript.crossorigin = "anonymous";
+adsenseScript.async = true;
+document.head.appendChild(adsenseScript);
 
 // Initialize Google Tag Manager
 window.dataLayer = window.dataLayer || [];
