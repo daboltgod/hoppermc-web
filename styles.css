@@ -9,6 +9,7 @@ body {
 }
 
 header {
+    margin-top: 25px;
     color: #fff;
     padding: 20px 0;
     position: fixed;
