@@ -67,22 +67,6 @@ nav ul li a {
     font-style: normal;
 }
 
-/* Side by side flexboxes */
-        .container {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        .discord-frame {
-            width: 350px;
-            height: 500px;
-        }
-
-        .githubrepo-frame {
-            width: 350px;
-            height: 500px;
-        }
-
 /* Other */
 .logo img {
     max-width: 100px;
