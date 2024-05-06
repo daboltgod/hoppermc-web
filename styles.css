@@ -19,6 +19,16 @@ header {
     width: 100%;
 }
 
+.titling {
+    margin-top: 50px;
+    color: white;
+    font-style: bold;
+    padding: 20px 0;
+    position: fixed;
+    width: 75%;
+    margin-bottom: 30px;
+}
+
 .logo img {
     max-width: 100px;
 }
