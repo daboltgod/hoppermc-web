@@ -10,7 +10,9 @@ body {
 
 header {
     margin-top: 25px;
+    margin-bottom: 50px;
     color: #fff;
+    font-style: bold;
     padding: 20px 0;
     position: fixed;
     top: 0;
