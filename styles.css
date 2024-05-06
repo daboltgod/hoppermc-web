@@ -44,6 +44,22 @@ nav ul li a {
     margin-bottom: 30px;
 }
 
+/* Side by side flexboxes */
+        .container {
+            display: flex;
+            justify-content: space-between; /* Adjust as needed */
+            align-items: center;
+        }
+        .discord-frame {
+            width: 350px;
+            height: 500px;
+        }
+
+        .githubrepo-frame {
+            width: 350px;
+            height: 500px;
+        }
+
 /* Other */
 .logo img {
     max-width: 100px;
