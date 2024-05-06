@@ -4,8 +4,11 @@
     box-sizing: border-box;
 }
 
-header {
+body {
     background-image: url('wallpaper.jpg');
+}
+
+header {
     color: #fff;
     padding: 20px 0;
     position: fixed;
