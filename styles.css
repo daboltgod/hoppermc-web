@@ -5,7 +5,7 @@
 }
 
 header {
-    background-color: #333;
+    background: url('image url');
     color: #fff;
     padding: 20px 0;
     position: fixed;
